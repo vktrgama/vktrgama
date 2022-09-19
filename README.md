@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @vktrgama
-- 👀 I’m interested in React, Node, and ES6 Testing frameworks
-- 🌱 I’m currently learning TypeScript and ES7
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Victor Gama,
+    full-stack, react, node, typescript, sql, graphql, aws, and other related stuff.
+    you can reach me at: vktrgama@gmail.com
 
 <!---
 vktrgama/vktrgama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
